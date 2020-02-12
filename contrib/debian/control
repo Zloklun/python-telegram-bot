@@ -2,7 +2,7 @@ Source: telegram
 Section: utils
 Priority: optional
 Maintainer: Marco Marinello <me@marcomarinello.it>
-Build-Depends: debhelper (>= 11), dh-python, python3-all, python3-setuptools
+Build-Depends: debhelper (>= 11), dh-python, python3, python3-setuptools
 Standards-Version: 4.1.3
 Homepage: https://python-telegram-bot.org
 X-Python-Version: >= 3.2
